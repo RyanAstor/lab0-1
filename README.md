@@ -119,7 +119,7 @@ On canvas, submit the following:
 #### 2. More resources on how to work locally with Git: 
 - https://www.jquery-az.com/3-examples-of-git-create-new-branch/
 - https://desktop.github.com/
-- Some IDE like Visual Studio Code have integrated support for Git already
+- Some IDEs like Visual Studio Code already have integrated support for version control like Git. More on that [here](https://code.visualstudio.com/docs/editor/versioncontrol) 
 
 ##### index.html code
 ```
