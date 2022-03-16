@@ -63,7 +63,7 @@ In your terminal again, type the following commands
 ```
 git checkout -b gh-pages         // create the new branch gh-pages
 git status 
-git merge main 
+git merge master
 git push --set-upstream origin gh-pages   // to do only the first time you push to a new branch otherwise just `git push` will do
 ```
 #### Option 2️⃣: online on Github
